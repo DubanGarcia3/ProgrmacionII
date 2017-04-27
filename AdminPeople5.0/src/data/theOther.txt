@@ -1,0 +1,2 @@
+fgff,ccc,MALE,2017-01-01,444.0,324343,null,0
+duban,Garcia,MALE,2014-07-10,233456.0,3244556,null,7
